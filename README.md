@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DileepSreepathi 
-- I am a  Software Developer works on web applications 
-- skills used to develop applications are angular,javascript,.net core,c#,Azure,SQL,Restful api,noSQL DB
+- I am a  Software Developer works on web applications both front end and backend.
+- skills used to develop applications are React,Angular,Javascript,.Net core,C#,Azure,SQL,Restful Api,NoSQL DB
 - 👀 I’m interested in learning the new skills , debugging the existing thing to understand the existing flow , designing the solutions
 - 🌱 I’m currently learning Angular 8 and above , Azure related resources
 - 💞️ I’m looking to collaborate on more on Azure Colud technologies , soution architecture 
