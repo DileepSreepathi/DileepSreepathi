@@ -2,7 +2,7 @@
 - I am a  Software Developer works on web applications both front end and backend basically a full stack developer. I am very specific to Financial Domain Systems . 
 - skills used to develop applications are Angular,Javascript,.Net core,C#,Azure,SQL,Restful Api,NoSQL DB
 - 👀 I’m interested in learning the new skills , debugging the existing thing to understand the existing flow , designing the solutions
-- 🌱 I’m currently learning  Azure related resources , techincal author on Medium : https://medium.com/@dileepsreepathi/about
+- 🌱 I’m currently learning Open AI, Azure related resources , techincal author on Medium : https://medium.com/@dileepsreepathi/about
 - 💞️ I’m looking to collaborate on more on Azure Colud technologies , soution architecture 
 - 📫 How to reach me .. can anyone reach me at my email: sreepathi.dileep@gmail.com
   
