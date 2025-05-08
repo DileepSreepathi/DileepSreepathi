@@ -49,9 +49,9 @@ Currently exploring OpenAI, Azure resources, and advanced application integratio
 📫 Let’s Connect
 Email: sreepathi.dileep@gmail.com
 
-Blogs: Medium Profile
+Blogs: https://dileepsreepathi.medium.com/
 
-Subscribe: DotNetCircuit Publication
+Subscribe: DotNetCircuit Publication - https://medium.com/dotnetcircuit
 
 Seeking a challenging role to contribute technical expertise, drive project success, and continuously enhance my skills in a dynamic, growth-oriented environment.
 
