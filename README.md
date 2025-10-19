@@ -51,7 +51,7 @@ Email: sreepathi.dileep@gmail.com
 
 Blogs: https://dileepsreepathi.medium.com/
 
-Subscribe: DotNetCircuit Publication - https://medium.com/dotnetcircuit
+Subscribe: DotNetCircuit Publication - newsletter.dotnetcircuit.com
 
 Seeking a challenging role to contribute technical expertise, drive project success, and continuously enhance my skills in a dynamic, growth-oriented environment.
 
