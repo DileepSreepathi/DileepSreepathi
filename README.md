@@ -1,4 +1,4 @@
-👋 Hi, I’m Dileep Sreepathi!
+👋 Hi, I’m Dileep Sreepathi! www.dileepsreepathi.com
 
 I am a highly skilled and detail-oriented .NET Developer with over 8 years of experience designing, developing, and deploying robust, scalable, and secure web and desktop applications-primarily in the Financial Domain.
 
@@ -50,6 +50,8 @@ Currently exploring OpenAI, Azure resources, and advanced application integratio
 Email: sreepathi.dileep@gmail.com
 
 Blogs: https://dileepsreepathi.medium.com/
+
+newsletter : https://newsletter.dotnetcircuit.com
 
 Subscribe: DotNetCircuit Publication - newsletter.dotnetcircuit.com
 
